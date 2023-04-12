@@ -688,11 +688,11 @@
   }],
   "suites": [{
     "id": "291286ab-54e3-4cdf-8ec5-86fe9af44814",
-    "name": "Default Suite",
+    "name": "Suite id_001",
     "persistSession": false,
     "parallel": false,
     "timeout": 300,
-    "tests": []
+    "tests": ["1c4022c6-bcf9-4d40-a8f0-8e7beb6ec173", "d8230953-dee5-4fd6-bb73-71569ea7aab0", "a62e13d5-d0fd-483e-845c-3d451d058752", "945c4639-3378-4553-b055-85f30c6a60c4", "5cc26961-e9d3-4ef8-85e8-cb86c8543640"]
   }],
   "urls": ["https://www.demoblaze.com/"],
   "plugins": []
